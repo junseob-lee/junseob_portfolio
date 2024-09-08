@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/internship.png", 
+            "title": "Internship Rizz", 
+            "description": "HTML", 
+            "url": "https://github.com/junseob-lee/Internship_rizz"
+        },
+        {
+            "cover": "/portfolio/weather.png", 
+            "title": "Weather Wardrobe", 
+            "description": "Java", 
+            "url": "https://github.com/junseob-lee/weather-wardrobe"
+        }, 
+        {
+            "cover": "/portfolio/Jetpack.png", 
+            "title": "Jetpack Game", 
+            "description": "HTML, CSS, JavaScript", 
+            "url": "https://github.com/junseob-lee/JetPackGame"
+        }
+    ]
+}
